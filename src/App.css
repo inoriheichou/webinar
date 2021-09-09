@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.center-form {
+  position: absolute;
+  width: 456px;
+  height: 387px;
+  left: 430px;
+  top: 130px;
+  background: #eeeeee;
+}
+
+.input-spacing {
+  margin-top: 27px;
+  margin-left: 63px;
+  margin-right: 63px;
+}
+
+.button-spacing {
+  margin-top: 27px;
+}
+
+.userdata {
+  background-color: yellow;
+}
